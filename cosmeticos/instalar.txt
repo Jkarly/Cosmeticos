@@ -1,0 +1,14 @@
+npm create vite@latest proyecto
+-----------------------
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+npm install react-router-dom
+npx tailwindcss init
+npm install styled-components
+npm install uuid
+npm i --save @fortawesome/fontawesome-svg-core
+npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
+npm install prop-types
+npm install @heroicons/react
+npm install react-toastify
